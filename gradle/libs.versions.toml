@@ -1,0 +1,18 @@
+[versions]
+cloud = "2.0.0"
+cloud-beta = "2.0.0-beta.10"
+paper = "1.21.11-R0.1-SNAPSHOT"
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version = "2.3.10" }
+shadow = { id = "com.gradleup.shadow", version = "9.3.1" }
+run-paper = { id = "xyz.jpenilla.run-paper", version = "2.3.1" }
+plugin-yml = { id = "de.eldoria.plugin-yml.paper", version = "0.8.0" }
+paperweight-userdev = { id = "io.papermc.paperweight.userdev", version = "2.0.0-beta.19" }
+
+[libraries]
+cloud-paper = { group = "org.incendo", name = "cloud-paper", version.ref = "cloud-beta" }
+cloud-kotlin-extensions = { group = "org.incendo", name = "cloud-kotlin-extensions", version.ref = "cloud" }
+
+[bundles]
+cloud = ["cloud-paper", "cloud-kotlin-extensions"]
