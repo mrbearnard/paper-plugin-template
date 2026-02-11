@@ -1,6 +1,6 @@
 # 🧬 Paper Plugin Template
 
-A simple paper plugin template containing all essential libraries
+A paper plugin template containing essential libraries
 
 # ⚡ Features
 
