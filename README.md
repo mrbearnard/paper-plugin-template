@@ -5,7 +5,7 @@ A simple paper plugin template containing all essential libraries
 # ⚡ Features
 
 - Version catalog for clarity & structure
-- `paperweight` for Mojang mappings
-- `run-paper` for quick testing
-- `plugin-yml` for clearer definition
-- `cloud` for clearer and simpler commands
+- `paperweight` for mappings
+- `run-paper` for testing
+- `plugin-yml` for clarity & structure
+- `cloud` for simpler commands
