@@ -33,7 +33,7 @@ kotlin {
 }
 
 paper {
-    main = "me.mrbernard.paperPluginTemplate.PaperPluginTemplate"
+    main = "me.mrbernard.template.Template"
     version = project.version as String
     apiVersion = "1.21"
 }

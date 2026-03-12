@@ -1,8 +1,8 @@
-package me.mrbernard.paperPluginTemplate
+package me.mrbernard.template
 
 import org.bukkit.plugin.java.JavaPlugin
 
-class PaperPluginTemplate : JavaPlugin() {
+class Template : JavaPlugin() {
 
     override fun onEnable() {}
 
