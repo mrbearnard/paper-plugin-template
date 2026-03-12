@@ -16,7 +16,6 @@ repositories {
 
 dependencies {
     paperweight.paperDevBundle(libs.versions.paper)
-    implementation(libs.bundles.cloud)
 }
 
 tasks {

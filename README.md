@@ -8,4 +8,3 @@ A simple paper plugin template containing all essential libraries
 - `paperweight` for Mojang mappings
 - `run-paper` for quick testing
 - `plugin-yml` for clearer definition
-- `cloud` for clearer and simpler commands
